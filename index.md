@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+# 南大阪代数セミナー
+## Welcome 
 
 You can use the [editor on GitHub](https://github.com/ysykimura/ModSeminar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
