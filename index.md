@@ -1,38 +1,27 @@
 # 南大阪代数セミナー
-## Welcome 
 
-You can use the [editor on GitHub](https://github.com/ysykimura/ModSeminar/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 概要
+大阪府立大学有志および大阪市立大学数学研究所有志を世話人として、
+大阪市立大学数学研究所(OCAMI)での事業の一環として、南大阪代数セミナーを行います。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 世話人
+- 加藤希理子 （大阪府立大学理学系研究科）
+- 神田遼（大阪市立大学理学研究科）
+- 木村嘉之（大阪府立大学高等教育推進機構）
+- 水野有哉（大阪府立大学高等教育推進機構）
+- 源泰幸 （大阪府立大学理学系研究科）
 
-### Markdown
+## 連絡先
+- 源泰幸（大阪府立大学理学系研究科）: E-mail minamoto"at"mi.s.osakafu-u.ac.jp
+- 木村嘉之（大阪府立大学高等教育推進機構）: E-mail ysykimura"at"las.osakafu-u.ac.jp
+("at"を@に変えて下さい。)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ysykimura/ModSeminar/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## [2014年度](2014/index.md)
+## [2015年度](2015/index.md)
+## [2016年度](2016/index.md)
+## [2017年度](2017/index.md)
+## [2018年度](2018/index.md)
+## [2019年度](2019/index.md)
+## [2020年度](2020/index.md)
+## [2021年度](2021/index.md)
+## [2022年度](2022/index.md)
