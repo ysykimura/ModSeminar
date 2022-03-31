@@ -1,0 +1,1 @@
+Website of Minami Osaka Daisu Seminar, powerd by GitHub Pages.
