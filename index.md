@@ -12,8 +12,8 @@
 - 源泰幸 （大阪公立大学理学研究科）
 
 ## 連絡先
-- 源泰幸（大阪府立大学理学系研究科）: E-mail minamoto"at"mi.s.osakafu-u.ac.jp
-- 木村嘉之（大阪府立大学高等教育推進機構）: E-mail ysykimura"at"las.osakafu-u.ac.jp
+- 源泰幸（大阪公立大学理学研究科）: E-mail minamoto"at"mi.s.osakafu-u.ac.jp
+- 木村嘉之（大阪公立大学国際基幹教育機構）: E-mail ysykimura"at"omu.ac.jp
 ("at"を@に変えて下さい。)
 
 ## [2014年度](2014/index.md)
