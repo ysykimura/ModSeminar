@@ -1,9 +1,10 @@
-
 *.json
 .obsidian/workspace
 .DS_Store
 *_ml.md
 *_googleml.md
 *_google.md
+*_note.md
 .obsidian/plugins/obsidian-git/main.js
 .obsidian/plugins/obsidian-git/styles.css
+
