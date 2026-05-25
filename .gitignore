@@ -1,2 +1,5 @@
 *.json
 *.js
+*_google.md
+*_googleml.md
+*_ml.md
